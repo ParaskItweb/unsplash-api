@@ -1,0 +1,7 @@
+.imagestyle {
+	border: 1px solid red;
+	display: inline-block;
+}
+.align-center {
+	text-align: center;
+}
